@@ -1,1 +1,14 @@
-"pandas\nnumpy\nscikit-learn\nxgboost" 
+# Essential Data Processing Libraries
+pandas            # Powerful data manipulation and analysis library
+numpy             # Fundamental package for scientific computing
+
+# Visualization Libraries
+seaborn           # Statistical data visualization library
+matplotlib        # Comprehensive library for creating static visualizations
+
+# Machine Learning Libraries
+scikit-learn      # Machine learning library for classification, regression, and more
+xgboost           # Gradient boosting library for efficient and scalable ML
+
+# Google Colab Integration
+google-colab      # Google Colab integration tools
